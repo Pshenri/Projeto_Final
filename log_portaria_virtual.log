@@ -1,0 +1,50 @@
+[2025-05-06 21:08:52] ACCESS_DENIED  | Visitante: Ana Costa | Motivo: Tentativa de acesso fora do horário permitido
+[2025-05-06 21:08:52] ALERT          | Falha na leitura do QR Code no portão social
+[2025-05-06 21:08:52] SYSTEM         | Portaria reiniciada - Versão 3.4.7
+[2025-05-06 21:08:52] DELIVERY       | iFood - Entregador: Lucas G. | Encomenda entregue no locker 05
+[2025-05-06 21:08:52] ACCESS_GRANTED | Visitante: Marcelo Lima | Apto: 1140 | Autorizado por morador via app
+[2025-05-06 21:08:52] ACCESS_GRANTED | Prestador de serviço: Mariana Souza | Empresa: FixTudo | Acesso liberado 10h às 12h
+[2025-05-06 21:08:52] ALERT          | Tentativa de acesso múltiplo em menos de 30 segundos
+[2025-05-06 21:08:52] ACCESS_GRANTED | Morador ID: 1050 | Nome: Diego Ramos | Entrada pelo portão principal
+[2025-05-06 21:08:52] ACCESS_GRANTED | Morador ID: 1045 | Nome: Larissa Tavares | Entrada pelo portão principal
+[2025-05-06 21:08:52] ACCESS_GRANTED | Prestador de serviço: Mariana Souza | Empresa: FixTudo | Acesso liberado 10h às 12h
+[2025-05-06 21:08:52] SYSTEM         | Portaria reiniciada - Versão 3.4.7
+[2025-05-06 21:08:52] SYSTEM         | Backup automático concluído com sucesso
+[2025-05-06 21:08:52] SYSTEM         | Reconhecimento facial atualizado para Morador ID: 1011
+[2025-05-06 21:08:52] ACCESS_GRANTED | Morador ID: 1045 | Nome: Larissa Tavares | Entrada pelo portão principal
+[2025-05-06 21:08:52] ACCESS_DENIED  | Visitante: Carlos Silva | Motivo: Tentativa de acesso fora do horário permitido
+[2025-05-06 21:08:52] SYSTEM         | Portaria reiniciada - Versão 3.4.7
+[2025-05-06 21:08:52] ACCESS_GRANTED | Prestador de serviço: José Almeida | Empresa: HidroLimp | Acesso liberado 10h às 12h
+[2025-05-06 21:08:52] DELIVERY       | iFood - Entregador: Lucas G. | Encomenda entregue no apartamento 292
+[2025-05-06 21:08:52] ACCESS_GRANTED | Morador ID: 1011 | Nome: Fernanda Lopes | Entrada pelo portão principal
+[2025-05-06 21:08:52] SYSTEM         | Portaria reiniciada - Versão 3.4.7
+[2025-05-06 21:08:52] ALERT          | Falha na leitura do QR Code no portão social
+[2025-05-06 21:08:52] ACCESS_DENIED  | Visitante: Marcelo Lima | Motivo: Não autorizado pelo morador
+[2025-05-06 21:08:52] ACCESS_DENIED  | Visitante: Carlos Silva | Motivo: Tentativa de acesso fora do horário permitido
+[2025-05-06 21:08:52] DELIVERY       | iFood - Entregador: Lucas G. | Encomenda entregue no apartamento 150
+[2025-05-06 21:08:52] ACCESS_DENIED  | Visitante: Rafael Mota | Motivo: Tentativa de acesso com QR Code expirado
+[2025-05-06 21:08:52] ACCESS_DENIED  | Visitante: Ana Costa | Motivo: Não autorizado pelo morador
+[2025-05-06 21:08:52] ALERT          | Falha na leitura do QR Code no portão social
+[2025-05-06 21:08:52] SYSTEM         | Portaria reiniciada - Versão 3.4.7
+[2025-05-06 21:08:52] ALERT          | Tentativa de acesso múltiplo em menos de 30 segundos
+[2025-05-06 21:08:52] DELIVERY       | Correios - Entregador: Roberto M. | Encomenda entregue no locker 05
+[2025-05-06 21:08:52] ALERT          | Porta da garagem permaneceu aberta por 3 minutos
+[2025-05-06 21:08:52] DELIVERY       | Correios - Entregador: Roberto M. | Encomenda entregue no apartamento 371
+[2025-05-06 21:08:52] DELIVERY       | Correios - Entregador: Roberto M. | Encomenda entregue no locker 05
+[2025-05-06 21:08:52] ALERT          | Porta da garagem permaneceu aberta por 3 minutos
+[2025-05-06 21:08:52] DELIVERY       | Correios - Entregador: Roberto M. | Encomenda entregue no locker 05
+[2025-05-06 21:08:52] DELIVERY       | Correios - Entregador: Roberto M. | Encomenda entregue no apartamento 1169
+[2025-05-06 21:08:52] ACCESS_GRANTED | Visitante: Carlos Silva | Apto: 204 | Autorizado por morador via app
+[2025-05-06 21:08:52] SYSTEM         | Backup automático concluído com sucesso
+[2025-05-06 21:08:52] SYSTEM         | Portaria reiniciada - Versão 3.4.7
+[2025-05-06 21:08:52] SYSTEM         | Backup automático concluído com sucesso
+[2025-05-06 21:08:52] ALERT          | Porta da garagem permaneceu aberta por 3 minutos
+[2025-05-06 21:08:52] DELIVERY       | Correios - Entregador: Roberto M. | Encomenda entregue no locker 05
+[2025-05-06 21:08:52] SYSTEM         | Portaria reiniciada - Versão 3.4.7
+[2025-05-06 21:08:52] ACCESS_DENIED  | Visitante: Paulo Henrique | Motivo: Tentativa de acesso fora do horário permitido
+[2025-05-06 21:08:52] ACCESS_GRANTED | Morador ID: 1087 | Nome: Carla Martins | Entrada pelo portão principal
+[2025-05-06 21:08:52] DELIVERY       | Correios - Entregador: Roberto M. | Encomenda entregue no locker 05
+[2025-05-06 21:08:52] ACCESS_DENIED  | Visitante: Rafael Mota | Motivo: Tentativa de acesso com QR Code expirado
+[2025-05-06 21:08:52] ALERT          | Tentativa de acesso múltiplo em menos de 30 segundos
+[2025-05-06 21:08:52] ALERT          | Falha na leitura do QR Code no portão social
+[2025-05-06 21:08:52] ACCESS_GRANTED | Morador ID: 1011 | Nome: Fernanda Lopes | Entrada pelo portão principal
